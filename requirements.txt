@@ -1,0 +1,5 @@
+flask
+gunicorn
+requests
+stripe
+python-telegram-bot==21.4
